@@ -72,7 +72,8 @@ ul li::before{
     width: 28px;
     height: 28px;
     border-radius: 50%;
-    background-image: url('images/un.jpg');
+    background-image: url('background-image: url('https://raw.githubusercontent.com/laasyadev/to-do-list/main/images/un.jpg');
+');
     background-size: cover;
     background-position: left;
     top: 7px;
@@ -84,7 +85,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url('images/checked.jpg');
+    background-image: url('background-image: url('https://raw.githubusercontent.com/laasyadev/to-do-list/main/images/checked.jpg');
 }
 
 ul li span{
