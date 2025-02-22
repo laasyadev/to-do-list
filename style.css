@@ -84,7 +84,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url('checked/checked.jpg');
+    background-image: url('images/checked.jpg');
 }
 
 ul li span{
